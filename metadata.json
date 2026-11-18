@@ -1,0 +1,6 @@
+{
+  "name": "SGAI - Système de Gestion Agropastorale Intégrée",
+  "description": "ERP agropastoral multi-filières (aviculture, pisciculture, riziculture, porciculture) avec comptabilité SYSCOHADA Révisé, gestion des stocks, parc automobile et immobilisations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
